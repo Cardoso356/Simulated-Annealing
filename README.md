@@ -28,7 +28,7 @@ O SA é um algoritmo probabilístico proposto por Kirkpatrick, Gelatt e Vecchi (
 A seguir é visualizado o fluxograma do algoritmo do SA desenvolvido.
 ![Fluxograma do Simulated Annealing](Fluxograma.png)
 
-Os resultados obtidos evidenciaram que o algoritmo propos uma ação de controle rápida e satisafatório para o sistema Ball and Beam, conseguindo encontrar a melhor resposta global. A seguir é visualizado os resultados.
+Os resultados obtidos evidenciaram que o algoritmo propos uma ação de controle rápida e satisfatória para o sistema Ball and Beam, conseguindo encontrar a melhor resposta global. A seguir é visualizado os resultados.
 
 ![Controle do sistema tendo o PID sintonizado pelo SA](Simulacao_Conict_SA.png)
 ![Evolução da função objetivo](funcaoobjetivo.png)
